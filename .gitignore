@@ -1,0 +1,44 @@
+# directory
+/build/
+
+# complied obj files
+*.slo
+*.lo
+*.o
+
+# obj file
+*.obj
+
+# precompiled headers
+*.gch
+*.pch
+
+# unnessary file
+*.ipch
+
+# compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# module file
+*.mod
+
+# compiled static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# exe file
+*.exe
+*.out
+*.app
+
+# file in debug directory
+*.ilk
+*.pdb
+*.log
+*.tlog
+*.idb
+*.lastbuildstate
