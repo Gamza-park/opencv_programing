@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    Mat src = imread("/home/park/chapter3/lena.jpg",IMREAD_GRAYSCALE);
+    Mat src = imread("/home/park/opencv_programing/chapter3/lena.jpg",IMREAD_GRAYSCALE);
     if(src.empty()){
         cout << "No img" << endl;
         return -1;}
