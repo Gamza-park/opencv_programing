@@ -37,3 +37,39 @@ target_link_libraries(4-10_test ${OpenCV_LIBS})
 # 4-11
 add_executable(4-11_test 4-11.cpp)
 target_link_libraries(4-11_test ${OpenCV_LIBS})
+
+# 4-12
+add_executable(4-12_test 4-12.cpp)
+target_link_libraries(4-12_test ${OpenCV_LIBS})
+
+# 4-13
+add_executable(4-13_test 4-13.cpp)
+target_link_libraries(4-13_test ${OpenCV_LIBS})
+
+# 4-14
+add_executable(4-14_test 4-14.cpp)
+target_link_libraries(4-14_test ${OpenCV_LIBS})
+
+# 4-15
+add_executable(4-15_test 4-15.cpp)
+target_link_libraries(4-15_test ${OpenCV_LIBS})
+
+# 4-16
+add_executable(4-16_test 4-16.cpp)
+target_link_libraries(4-16_test ${OpenCV_LIBS})
+
+# 4-17
+add_executable(4-17_test 4-17.cpp)
+target_link_libraries(4-17_test ${OpenCV_LIBS})
+
+# 4-18
+add_executable(4-18_test 4-18.cpp)
+target_link_libraries(4-18_test ${OpenCV_LIBS})
+
+# 4-19
+add_executable(4-19_test 4-19.cpp)
+target_link_libraries(4-19_test ${OpenCV_LIBS})
+
+# 4-20
+add_executable(4-20_test 4-20.cpp)
+target_link_libraries(4-20_test ${OpenCV_LIBS})

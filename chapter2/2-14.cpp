@@ -20,6 +20,5 @@ int main(){
 
     B(Range(0,1),Range::all()).copyTo(B(Range(1,2),Range::all()));
     cout << "B = " << B << endl;
-    
     return 0;
 }
