@@ -73,3 +73,7 @@ target_link_libraries(4-19_test ${OpenCV_LIBS})
 # 4-20
 add_executable(4-20_test 4-20.cpp)
 target_link_libraries(4-20_test ${OpenCV_LIBS})
+
+# 4-21
+add_executable(4-21_test 4-21.cpp)
+target_link_libraries(4-21_test ${OpenCV_LIBS})
